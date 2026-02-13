@@ -11,7 +11,7 @@ Win / Draw detection.
 Event-driven architecture.  
 Clean grid rendering using SFML.
 
-🛠 Tech Stack
+🛠 Tech Stack 
 
 C++ 
 SFML (Simple and Fast Multimedia Library)  
